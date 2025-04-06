@@ -207,27 +207,29 @@ namespace StarVally
                 //gm.SetTimeTo(day,tick);
                 Traverse.Create(gm).Property("CurrentMiniTicks").SetValue(0);
                 Debug.LogError($"当前mini时间为：{miniTick}");
+                Debug.LogError($"测试是否可用啊啊啊啊啊啊啊啊啊啊啊啊啊");
 
-                
-                    
+
+                //此处是为了动态更新单人床的睡觉时间
+                //打盹 到0点自动结束，计划超过0点后无法再打盹，或者打盹到6点
+                //睡觉 固定睡到第二天早上6点起床
                 CardData singleBed = __instance.CardModel;
-                    Debug.Log($"准备动手修改单人床");
-                    DismantleCardAction action1 = singleBed.DismantleActions[0];
-                    DismantleCardAction action2 = singleBed.DismantleActions[1];
+                Debug.Log($"准备动手修改单人床");
+                DismantleCardAction action1 = singleBed.DismantleActions[0];
+                DismantleCardAction action2 = singleBed.DismantleActions[1];
 
 
-                    if (tick > 79)
-                    {
-                        //action1.AlwaysShow = false;
-                    }else
-                    {
-                        //action1.AlwaysShow = true;
-                        Traverse.Create(action1).Field("DaytimeCost").SetValue(80 - tick);
-                    }
-                    Traverse.Create(action2).Field("DaytimeCost").SetValue(104 - tick);
+                if (tick > 79)
+                {
+                    //action1.AlwaysShow = false;
+                }else
+                {
+                    //action1.AlwaysShow = true;
+                    Traverse.Create(action1).Field("DaytimeCost").SetValue(80 - tick);
+                }
+                Traverse.Create(action2).Field("DaytimeCost").SetValue(104 - tick);
 
-                    singleBed.DismantleActions = new List<DismantleCardAction> {action1, action2 };
-                singleBed.s
+                singleBed.DismantleActions = new List<DismantleCardAction> {action1, action2 };
 
                 //if (wantSetDayTime)
                 //{

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\StarVally\\",
+  "WorkspaceRootPath": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\CSTI-StarVallyDLL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96D2287E-6552-41C4-BB30-DD7B0E03F8A2}|StarVally.csproj|f:\\steamlibrary\\steamapps\\common\\card survival tropical island\\repos\\starvally\\starvallyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96D2287E-6552-41C4-BB30-DD7B0E03F8A2}|StarVally.csproj|f:\\steamlibrary\\steamapps\\common\\card survival tropical island\\repos\\csti-starvallydll\\starvallyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96D2287E-6552-41C4-BB30-DD7B0E03F8A2}|StarVally.csproj|solutionrelative:starvallyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96D2287E-6552-41C4-BB30-DD7B0E03F8A2}|StarVally.csproj|F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\StarVally\\starvallytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96D2287E-6552-41C4-BB30-DD7B0E03F8A2}|StarVally.csproj|F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\CSTI-StarVallyDLL\\starvallytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96D2287E-6552-41C4-BB30-DD7B0E03F8A2}|StarVally.csproj|solutionrelative:starvallytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StarVallyTools.cs",
-              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\StarVally\\StarVallyTools.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\CSTI-StarVallyDLL\\StarVallyTools.cs",
               "RelativeDocumentMoniker": "StarVallyTools.cs",
-              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\StarVally\\StarVallyTools.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\CSTI-StarVallyDLL\\StarVallyTools.cs",
               "RelativeToolTip": "StarVallyTools.cs",
               "ViewState": "AgIAAJsAAAAAgJmZmZn5vw4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T04:38:35.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T04:38:35.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StarVallyApplication.cs",
-              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\StarVally\\StarVallyApplication.cs",
+              "DocumentMoniker": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\CSTI-StarVallyDLL\\StarVallyApplication.cs",
               "RelativeDocumentMoniker": "StarVallyApplication.cs",
-              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\StarVally\\StarVallyApplication.cs",
+              "ToolTip": "F:\\SteamLibrary\\steamapps\\common\\Card Survival Tropical Island\\repos\\CSTI-StarVallyDLL\\StarVallyApplication.cs",
               "RelativeToolTip": "StarVallyApplication.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAswNMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAALDMzMzMDwNYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T09:41:07.662Z",
               "EditorCaption": ""

@@ -6,3 +6,9 @@ F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\StarVally\o
 F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\StarVally\obj\Debug\StarVally.csproj.CoreCompileInputs.cache
 F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\StarVally\obj\Debug\StarVally.dll
 F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\StarVally\obj\Debug\StarVally.pdb
+F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\BepInEx\plugins\CSTI-StarVally\StarVally.dll
+F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\BepInEx\plugins\CSTI-StarVally\StarVally.pdb
+F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\CSTI-StarVallyDLL\obj\Debug\StarVally.csproj.AssemblyReference.cache
+F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\CSTI-StarVallyDLL\obj\Debug\StarVally.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\CSTI-StarVallyDLL\obj\Debug\StarVally.dll
+F:\SteamLibrary\steamapps\common\Card Survival Tropical Island\repos\CSTI-StarVallyDLL\obj\Debug\StarVally.pdb
