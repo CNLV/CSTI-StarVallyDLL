@@ -9,3 +9,6 @@ CSTI-StarVallyDLL 是《卡牌生存-热带岛屿》的“星露谷物语”模�
 
 2. **安装方式**  
    - 将 `StarVally.dll` 放入游戏的 `BepInEx/plugins` 目录下。
+  
+## 特别说明
+1. 本地运行过程中已经将DLL的生成位置修改为 **CSTI-StarVally**目录下，本仓库仅保存代码以供查看
